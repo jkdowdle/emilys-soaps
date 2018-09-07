@@ -5,6 +5,13 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 ## Install
 
+Clone project
+```sh
+git clone https://github.com/jkdowdle/emilys-soaps.git
+
+cd emilys-soaps
+```
+
 Make sure that you have the Gatsby CLI program installed:
 ```sh
 npm install --global gatsby-cli
@@ -14,6 +21,8 @@ Then you can run it by:
 ```sh
 gatsby develop
 ```
+
+Open http://localhost:8000/ in browser.
 
 ## Deploy
 
