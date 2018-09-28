@@ -4,13 +4,16 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "bloomer": "^0.6.3",
+    "bulma": "^0.7.1",
     "gatsby": "next",
-    "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
+    "gatsby-plugin-react-helmet": "next",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "react-social-icons": "^3.0.0"
   },
   "keywords": [
     "gatsby"
